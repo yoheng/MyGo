@@ -1,0 +1,2 @@
+# MyGo
+Go testing project
